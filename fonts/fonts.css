@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'brown thin';
+	src: url('brown-thin-webfont.ttf') format('truetype');
+  src: local('brown thin'), local
+}
+@font-face {
+	font-family: 'brown regular alt';
+	src: url('brown-regular-alt-webfont.ttf') format('truetype');
+  src: local('brown regular alt'), local
+}
+@font-face {
+	font-family: 'Brain Wants';
+	src: url('Brain Wants.ttf') format('truetype');
+}
